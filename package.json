@@ -4,8 +4,8 @@
   "description": "A NPM library designed to make use of the Twitch Helix API easier!",
   "main": "index.js",
   "dependencies": {
-    "query-string": "^5.0.1",
-    "arresting": "^1.0.2"
+    "arresting": "^1.0.2",
+    "query-string": "^5.0.1"
   },
   "devDependencies": {},
   "scripts": {
